@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<!-- 财务-->
+	<dict>
+		<key>wb19490884</key>
+		<string>中国工商银行</string>
+	</dict>
+	<dict>
+		<key>epay</key>
+		<string>中国建设银行</string>
+	</dict>
+    <dict>
+        <key>upcommon</key>
+        <string>云闪付</string>
+    </dict>
+    <dict>
+        <key>bankabc</key>
+        <string>农行掌上银行</string>
+    </dict>
+</array>
+</plist>
